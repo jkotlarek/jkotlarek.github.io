@@ -2,7 +2,7 @@
 
 M.S. in Computer Science Candidate at the University of California, Davis
 
-[LinkedIn](www.linkedin.com/in/joseph-kotlarek), [GitHub](https://github.com/jkotlarek), Contact: jtkotlarek [at] gmail.com
+[LinkedIn](https://www.linkedin.com/in/joseph-kotlarek), [GitHub](https://github.com/jkotlarek), Contact: jtkotlarek [at] gmail.com
 
 ---
 
@@ -56,8 +56,6 @@ Various Video Games with UCM Game Dev. Club.
 
 ## Honors and Awards
 
-**Outstanding Student in Engineering**
-May 2017 -- University of California, Merced
+**Outstanding Student in Engineering** -- May 2017 -- University of California, Merced
 
-High Honors
-Jun 2017 -- University of California, Merced
+**High Honors** -- Jun 2017 -- University of California, Merced
