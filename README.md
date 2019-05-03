@@ -10,7 +10,7 @@ M.S. in Computer Science Candidate at the University of California, Davis
 
 **M.S. in Computer Science** - University of California, Davis - Aug 2017 to Present (2 years)
 
-- Worked in [VIDI Labs](https://vidi.cs.ucdavis.edu/) primarily on Virtual Reality research.
+- Worked in [VIDI Lab](https://vidi.cs.ucdavis.edu/) primarily on Virtual Reality research.
 - Collaborated with multiple research labs across the globe to contribute to the state of the art in immersive information visualization.
 
 **B.S. in Computer Science & Engineering** - University of California, Merced - Aug 2014 to Jun 2017 (3 years)
@@ -21,14 +21,25 @@ M.S. in Computer Science Candidate at the University of California, Davis
 
 ## Work
 
-**Graduate Student Researcher** - [VIDI Labs](https://vidi.cs.ucdavis.edu/), University of California, Davis
+**Graduate Student Researcher** - [VIDI Lab](https://vidi.cs.ucdavis.edu/), University of California, Davis
 - Worked on several novel techniques and implementations for immersive information visualization. 
-- Represented the group in a dozen or more lab tours, providing VR demonstrations and explaining our work to all kinds of visitors, from elementary school students to prospective investors and industry representatives.
+- Represented the group in over a dozen lab tours, providing VR demonstrations and explaining our work to all kinds of visitors, from elementary school students to prospective investors and industry representatives.
+
+**Undergraduate Student Researcher** - [HIVE Lab](http://worldheritage.ucmerced.edu/lab), University of California, Merced
+- Architected and started implementation on a large-scale software project to enable advanced and intuitive digsite maintenance through the use of augmented reality headsets and laser-scan data.
+- Created a partial digital reconstruction of Bodie, California as an immersive experience with Virtual Reality technology. 
 
 **Software Engineer (intern)** - Rosetta Marketing, LLC.
 - Worked as a code-committing developer on several enterprise-scale projects.
+- Implemented a RESTful web API with Java.
 
 ## Publications
+
+**A Study of Mental Map in Immersive Network Visualization**
+
+Joseph Kotlarek. 2019. Master's thesis. University of California, Davis. Under Review.
+
+[Code](https://github.com/jkotlarek/VidiVRNetworkVis)
 
 **Improving Spatial Orientation in Immersive Environments**
 
