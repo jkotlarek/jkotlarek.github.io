@@ -1,6 +1,6 @@
 # Joseph T. Kotlarek
 
-M.S. in Computer Science Candidate at the University of California, Davis
+M.S. in Computer Science Recent Graduate from UC Davis
 
 [LinkedIn](https://www.linkedin.com/in/joseph-kotlarek), [GitHub](https://github.com/jkotlarek), Contact: jtkotlarek [at] gmail.com
 
@@ -8,30 +8,37 @@ M.S. in Computer Science Candidate at the University of California, Davis
 
 ## Education
 
-**M.S. in Computer Science** - University of California, Davis - Aug 2017 to Present (2 years)
+**M.S. in Computer Science** - University of California, Davis - Aug 2017 to Jun 2019 (2 years)
 
-- Worked in [VIDI Lab](https://vidi.cs.ucdavis.edu/) primarily on Virtual Reality research.
+- Worked in [VIDI Lab](https://vidi.cs.ucdavis.edu/) on Virtual Reality research.
 - Collaborated with multiple research labs across the globe to contribute to the state of the art in immersive information visualization.
 
 **B.S. in Computer Science & Engineering** - University of California, Merced - Aug 2014 to Jun 2017 (3 years)
 
-- Worked in [HIVE Lab](http://worldheritage.ucmerced.edu/lab) primarily on Virtual and Augmented Reality systems.
+- Worked in [HIVE Lab](http://worldheritage.ucmerced.edu/lab) on Virtual and Augmented Reality systems.
 - Co-Founded and led the UCMerced Game Development Club.
 - Awarded *Outstanding Student in Engineering* by Computer Science and Engineering Dept. faculty.
 
 ## Work
 
 **Graduate Student Researcher** - [VIDI Lab](https://vidi.cs.ucdavis.edu/), University of California, Davis
-- Worked on several novel techniques and implementations for immersive information visualization. 
-- Represented the group in over a dozen lab tours, providing VR demonstrations and explaining our work to all kinds of visitors, from elementary school students to prospective investors and industry representatives.
+- Started and finished four separate Immersive Visualization research projects, two of which included full academic papers that ended in publication, and two that remain as lab demonstrations for visiting students and industry representatives.
+- Presented research projects on a regular basis to groups of varying ages and experience levels, educating students and earning funding opportunities for the lab.
+- Created a low-latency and high-fidelty immersive volume rendering tool using panoramic omni-directional stereo (ODS) technologies, emphasizing interactivity with large data sets.
+- Created personal performance analysis tools and Unity Editor extensions to optimize and streamline immersive visualization systems development.
+- Spearheaded the creation of new VR research directions for the lab, developing project ideas for multiple junior researchers.
 
 **Undergraduate Student Researcher** - [HIVE Lab](http://worldheritage.ucmerced.edu/lab), University of California, Merced
-- Architected and started implementation on a large-scale software project to enable advanced and intuitive digsite maintenance through the use of augmented reality headsets and laser-scan data.
+- Architected and spearheaded implementation on a large-scale software project to enable advanced and intuitive digsite maintenance through the use of augmented reality headsets and laser-scan data.
 - Created a partial digital reconstruction of Bodie, California as an immersive experience with Virtual Reality technology. 
 
-**Software Engineer (intern)** - Rosetta Marketing, LLC.
-- Worked as a code-committing developer on several enterprise-scale projects.
-- Implemented a RESTful web API with Java.
+**Software Engineer Intern** - Rosetta Marketing, LLC.
+- Created an immersive virtual reality training experience for home appliance technicians.
+- Spearheaded the creation of a SOP manual for VR projects.
+- With a team of developers,  built and shipped a mobile storefront and back-end API as a proof-of-concept for new personalized customer engagement models.
+
+**Software Engineer in Test Intern** - Rosetta Marketing, LLC.
+- Created a fully automated unit test suite for a large-scale mobile API from the ground up, using JUnit with Jenkins build integration.
 
 ## Publications
 
