@@ -8,24 +8,28 @@ M.S. in Computer Science Recent Graduate from UC Davis
 ## Projects
 
 <img align="left" width="640px" src="http://josephkotlarek.com/imgs/netvis.jpg">
-3D Network Visualization in Virtual Reality. 
+**3D Network Visualization in Virtual Reality.** 
 [Code](https://github.com/jkotlarek/VidiVRNetworkVis)
 
-<img align="right" width="640px" src="http://josephkotlarek.com/imgs/volvis.png">
-Egocentric Large Volume Visualization in Virtual Reality. 
+<img align="left" width="640px" src="http://josephkotlarek.com/imgs/volvis.png">
+**Egocentric Large Volume Visualization in Virtual Reality.** 
 [Code](https://github.com/jkotlarek/VidiVRVolVis)
 
 <img align="left" width="640px" src="http://josephkotlarek.com/imgs/tokamak.jpg">
-Immersive Virtual Reality Tokamak Fusion Reactor Simulation. 
+**Immersive Virtual Reality Tokamak Fusion Reactor Simulation.** 
 [Code](https://github.com/jkotlarek/VidiVRTokamak)
 
-<img align="right" width="640px" src="http://josephkotlarek.com/imgs/wall.png">
-Immersive Virtual Reality Data Analysis Framework. 
+<img align="left" width="640px" src="http://josephkotlarek.com/imgs/wall.png">
+**Immersive Virtual Reality Data Analysis Framework.** 
 [Code](https://github.com/jkotlarek/VidiVRWall)
 
-Cloud-based Machine Learning Tool for Non-Experts. 
+<img align="left" width="640px" src="http://josephkotlarek.com/imgs/tensorfloss.png">
+**Cloud-based Machine Learning Tool for Non-Experts.** 
+*Code Unavailable*
 
-Various Video Games with UCM Game Dev. Club. 
+<img align="left" width="640px" src="http://josephkotlarek.com/imgs/voxelnauts.png">
+**Various Video Games with UCM Game Dev. Club.** 
+[Code](https://github.com/bpgeck/Voxelnauts)
 
 ## Education
 
