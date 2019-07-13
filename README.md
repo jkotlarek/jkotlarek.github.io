@@ -5,34 +5,38 @@ M.S. in Computer Science Recent Graduate from UC Davis
 [LinkedIn](https://www.linkedin.com/in/joseph-kotlarek), [GitHub](https://github.com/jkotlarek), Contact: jtkotlarek [at] gmail.com
 
 ---
+## About Me
+
+I am a Software Engineer with a passion for computer graphics, immersive technology, and video games.
+
 ## Projects
 
 <img align="left" width="640px" src="http://josephkotlarek.com/imgs/netvis.jpg">
-**3D Network Visualization in Virtual Reality.** (2019)
+**3D Network Visualization in Virtual Reality.** (2019) - 
 [Code](https://github.com/jkotlarek/VidiVRNetworkVis)
 
 <img align="left" width="640px" src="http://josephkotlarek.com/imgs/volvis.png">
-**Egocentric Large Volume Visualization in Virtual Reality.** (2018)
+**Egocentric Large Volume Visualization in Virtual Reality.** (2018) - 
 [Code](https://github.com/jkotlarek/VidiVRVolVis)
 
 <img align="left" width="640px" src="http://josephkotlarek.com/imgs/tokamak.jpg">
-**Immersive Virtual Reality Tokamak Fusion Reactor Simulation.** (2018)
+**Immersive Virtual Reality Tokamak Fusion Reactor Simulation.** (2018) - 
 [Code](https://github.com/jkotlarek/VidiVRTokamak)
 
 <img align="left" width="640px" src="http://josephkotlarek.com/imgs/wall.png">
-**Immersive Virtual Reality Data Analysis Framework.** (2017)
+**Immersive Virtual Reality Data Analysis Framework.** (2017) - 
 [Code](https://github.com/jkotlarek/VidiVRWall)
 
 <img align="left" width="640px" src="http://josephkotlarek.com/imgs/tensorfloss.png">
-**Cloud-based Machine Learning Tool for Non-Experts.** (2017)
+**Cloud-based Machine Learning Tool for Non-Experts.** (2017) - 
 *Code Unavailable*
 
 <img align="left" width="640px" src="http://josephkotlarek.com/imgs/superdashcancel.png">
-**SuperDashCancel** - Fighting Game (2017)
+**SuperDashCancel** - Fighting Game (2017) - 
 [Code](https://github.com/brianchenito/SuperDashCancel)
 
 <img align="left" width="640px" src="http://josephkotlarek.com/imgs/voxelnauts.png">
-**Voxelnauts** - FPS Game (2016)
+**Voxelnauts** - FPS Game (2016) - 
 [Code](https://github.com/bpgeck/Voxelnauts)
 
 ## Education
