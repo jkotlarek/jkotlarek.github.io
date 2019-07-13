@@ -3,6 +3,7 @@
 M.S. in Computer Science Recent Graduate from UC Davis
 
 [LinkedIn](https://www.linkedin.com/in/joseph-kotlarek), [GitHub](https://github.com/jkotlarek), Contact: jtkotlarek [at] gmail.com
+<img align="right" width="400px" src="http://josephkotlarek.com/imgs/portrait.jpg">
 
 ---
 ## About Me
