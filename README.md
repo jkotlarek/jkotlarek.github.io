@@ -7,21 +7,26 @@ M.S. in Computer Science Recent Graduate from UC Davis
 ---
 ## About Me
 
-I am a Software Engineer with a passion for computer graphics, immersive technology, and video games.
+I am a Software Engineer with a passion for computer graphics, immersive technology, and video games. I play video games with the same friends I made a decade ago, overthinking every bit of it, optimizing the routes, constantly improving. Probably not what the game designers had in mind, but we love it. I enjoy immersing myself in the virtual worlds and wanted to build them. Creating games with friends as an undergrad, I was introduced to AR in [HIVE lab](http://worldheritage.ucmerced.edu/lab) with [Dr. Lecari](https://www.ucmerced.edu/content/nicola-lercari) - to help archaeologists maintain their dig sites with unparalleled accuracy. The melding of the physical and digital world is intriguing and led me to work with [Dr. Kwan-Liu Ma](https://web.cs.ucdavis.edu/~ma/) in his [VIDI lab](https://vidi.cs.ucdavis.edu/) at UC Davis to earn my graduate degree. Together we extended the visualization work he is famous for into the immersive realm with Virtual Reality. I apply the same principles I use when playing games to the experiences I create - always improving, always learning new ways to do things better and faster. I love to solve challenging problems, whether it’s finding your way around the inside of a [virtual fusion reactor](http://josephkotlarek.com/Improving_Spatial_Orientation_in_Immersive_Environments.pdf) or optimizing the throughput ratios of iron and copper plates to assembly machines creating electronic circuits in [Factorio](https://factorio.com/). 
+
+In my spare time I work on coding projects with my Dad, modding my BRZ, and playing guitar (poorly), trying to be the adult version of [success kid](https://cbsnews1.cbsistatic.com/hub/i/2016/12/14/4b7e3037-b62b-4f21-9e5c-1c181da45a6a/screen-shot-2016-12-14-at-4-25-12-pm.png).
+
 
 ## Projects
 
 <img align="left" width="640px" src="http://josephkotlarek.com/imgs/netvis.jpg">
 **3D Network Visualization in Virtual Reality.** (2019) - 
-[Code](https://github.com/jkotlarek/VidiVRNetworkVis)
+[Code](https://github.com/jkotlarek/VidiVRNetworkVis) - 
+[Thesis (pdf)](http://josephkotlarek.com/A_Study_of_Mental_Map_in_Immersive_Network_Visualization.pdf)
 
 <img align="left" width="640px" src="http://josephkotlarek.com/imgs/volvis.png">
-**Egocentric Large Volume Visualization in Virtual Reality.** (2018) - 
+**Egocentric Large Volume Visualization of the Center of a Supernova in Virtual Reality.** (2018) - 
 [Code](https://github.com/jkotlarek/VidiVRVolVis)
 
 <img align="left" width="640px" src="http://josephkotlarek.com/imgs/tokamak.jpg">
 **Immersive Virtual Reality Tokamak Fusion Reactor Simulation.** (2018) - 
-[Code](https://github.com/jkotlarek/VidiVRTokamak)
+[Code](https://github.com/jkotlarek/VidiVRTokamak) - 
+[Paper (pdf)](http://josephkotlarek.com/Improving_Spatial_Orientation_in_Immersive_Environments.pdf)
 
 <img align="left" width="640px" src="http://josephkotlarek.com/imgs/wall.png">
 **Immersive Virtual Reality Data Analysis Framework.** (2017) - 
@@ -31,7 +36,7 @@ I am a Software Engineer with a passion for computer graphics, immersive technol
 **Cloud-based Machine Learning Tool for Non-Experts.** (2017) - 
 *Code Unavailable*
 
-<img align="left" width="640px" src="http://josephkotlarek.com/imgs/superdashcancel.png">
+<img align="left" width="640px" src="http://josephkotlarek.com/imgs/superdashcancel.gif">
 **SuperDashCancel** - Fighting Game (2017) - 
 [Code](https://github.com/brianchenito/SuperDashCancel)
 
@@ -79,13 +84,13 @@ I am a Software Engineer with a passion for computer graphics, immersive technol
 
 Joseph Kotlarek. 2019. Master's thesis. University of California, Davis. Under Review.
 
-[Paper](http://josephkotlarek.com/A_Study_of_Mental_Map_in_Immersive_Network_Visualization.pdf) - [Code](https://github.com/jkotlarek/VidiVRNetworkVis)
+[Thesis (pdf)](http://josephkotlarek.com/A_Study_of_Mental_Map_in_Immersive_Network_Visualization.pdf) - [Code](https://github.com/jkotlarek/VidiVRNetworkVis)
 
 **Improving Spatial Orientation in Immersive Environments**
 
 Joseph Kotlarek, I-Chen Lin, and Kwan-Liu Ma. 2018. In Proceedings of the Symposium on Spatial User Interaction (SUI '18). ACM New York, NY, USA, 79-88.
 
-[Paper](https://dl.acm.org/citation.cfm?doid=3267782.3267792) - [Presentation](https://www.youtube.com/watch?v=FTz-UwdWKfA) - [Code](https://github.com/jkotlarek/VidiVRTokamak)
+[Paper (pdf)](http://josephkotlarek.com/Improving_Spatial_Orientation_in_Immersive_Environments.pdf) - [Presentation](https://www.youtube.com/watch?v=FTz-UwdWKfA) - [Code](https://github.com/jkotlarek/VidiVRTokamak)
 
 
 ## Honors and Awards
