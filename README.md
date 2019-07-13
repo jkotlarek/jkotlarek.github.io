@@ -8,27 +8,31 @@ M.S. in Computer Science Recent Graduate from UC Davis
 ## Projects
 
 <img align="left" width="640px" src="http://josephkotlarek.com/imgs/netvis.jpg">
-**3D Network Visualization in Virtual Reality.** 
+**3D Network Visualization in Virtual Reality.** (2019)
 [Code](https://github.com/jkotlarek/VidiVRNetworkVis)
 
 <img align="left" width="640px" src="http://josephkotlarek.com/imgs/volvis.png">
-**Egocentric Large Volume Visualization in Virtual Reality.** 
+**Egocentric Large Volume Visualization in Virtual Reality.** (2018)
 [Code](https://github.com/jkotlarek/VidiVRVolVis)
 
 <img align="left" width="640px" src="http://josephkotlarek.com/imgs/tokamak.jpg">
-**Immersive Virtual Reality Tokamak Fusion Reactor Simulation.** 
+**Immersive Virtual Reality Tokamak Fusion Reactor Simulation.** (2018)
 [Code](https://github.com/jkotlarek/VidiVRTokamak)
 
 <img align="left" width="640px" src="http://josephkotlarek.com/imgs/wall.png">
-**Immersive Virtual Reality Data Analysis Framework.** 
+**Immersive Virtual Reality Data Analysis Framework.** (2017)
 [Code](https://github.com/jkotlarek/VidiVRWall)
 
 <img align="left" width="640px" src="http://josephkotlarek.com/imgs/tensorfloss.png">
-**Cloud-based Machine Learning Tool for Non-Experts.** 
+**Cloud-based Machine Learning Tool for Non-Experts.** (2017)
 *Code Unavailable*
 
+<img align="left" width="640px" src="http://josephkotlarek.com/imgs/superdashcancel.png">
+**SuperDashCancel** - Fighting Game (2017)
+[Code](https://github.com/brianchenito/SuperDashCancel)
+
 <img align="left" width="640px" src="http://josephkotlarek.com/imgs/voxelnauts.png">
-**Various Video Games with UCM Game Dev. Club.** 
+**Voxelnauts** - FPS Game (2016)
 [Code](https://github.com/bpgeck/Voxelnauts)
 
 ## Education
