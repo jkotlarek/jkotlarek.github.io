@@ -7,7 +7,7 @@ M.S. in Computer Science Recent Graduate from UC Davis
 ---
 ## Projects
 
-<img align="right" src="http://josephkotlarek.com/imgs/netvis.png">
+<img align="right" width="500px" src="http://josephkotlarek.com/imgs/netvis.png">
 3D Network Visualization in Virtual Reality. 
 [Code](https://github.com/jkotlarek/VidiVRNetworkVis)
 
