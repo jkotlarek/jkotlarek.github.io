@@ -5,6 +5,24 @@ M.S. in Computer Science Recent Graduate from UC Davis
 [LinkedIn](https://www.linkedin.com/in/joseph-kotlarek), [GitHub](https://github.com/jkotlarek), Contact: jtkotlarek [at] gmail.com
 
 ---
+## Projects
+
+<img align="right" src="http://josephkotlarek.com/imgs/netvis.png">
+3D Network Visualization in Virtual Reality. 
+[Code](https://github.com/jkotlarek/VidiVRNetworkVis)
+
+Egocentric Large Volume Visualization in Virtual Reality. 
+[Code](https://github.com/jkotlarek/VidiVRVolVis)
+
+Immersive Virtual Reality Tokamak Fusion Reactor Simulation. 
+[Code](https://github.com/jkotlarek/VidiVRTokamak)
+
+Immersive Virtual Reality Data Analysis Framework. 
+[Code](https://github.com/jkotlarek/VidiVRWall)
+
+Cloud-based Machine Learning Tool for Non-Experts. 
+
+Various Video Games with UCM Game Dev. Club. 
 
 ## Education
 
@@ -46,7 +64,7 @@ M.S. in Computer Science Recent Graduate from UC Davis
 
 Joseph Kotlarek. 2019. Master's thesis. University of California, Davis. Under Review.
 
-[Code](https://github.com/jkotlarek/VidiVRNetworkVis)
+[Paper](https://josephkotlarek.com/A_Study_of_Mental_Map_in_Immersive_Network_Visualization.pdf)[Code](https://github.com/jkotlarek/VidiVRNetworkVis)
 
 **Improving Spatial Orientation in Immersive Environments**
 
@@ -54,23 +72,6 @@ Joseph Kotlarek, I-Chen Lin, and Kwan-Liu Ma. 2018. In Proceedings of the Sympos
 
 [Paper](https://dl.acm.org/citation.cfm?doid=3267782.3267792) - [Presentation](https://www.youtube.com/watch?v=FTz-UwdWKfA) - [Code](https://github.com/jkotlarek/VidiVRTokamak)
 
-## Projects
-
-3D Network Visualization in Virtual Reality. 
-[Code](https://github.com/jkotlarek/VidiVRNetworkVis)
-
-Egocentric Large Volume Visualization in Virtual Reality. 
-[Code](https://github.com/jkotlarek/VidiVRVolVis)
-
-Immersive Virtual Reality Tokamak Fusion Reactor Simulation. 
-[Code](https://github.com/jkotlarek/VidiVRTokamak)
-
-Immersive Virtual Reality Data Analysis Framework. 
-[Code](https://github.com/jkotlarek/VidiVRWall)
-
-Cloud-based Machine Learning Tool for Non-Experts. 
-
-Various Video Games with UCM Game Dev. Club. 
 
 ## Honors and Awards
 
