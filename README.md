@@ -79,7 +79,7 @@ I am a Software Engineer with a passion for computer graphics, immersive technol
 
 Joseph Kotlarek. 2019. Master's thesis. University of California, Davis. Under Review.
 
-[Paper](https://josephkotlarek.com/A_Study_of_Mental_Map_in_Immersive_Network_Visualization.pdf)[Code](https://github.com/jkotlarek/VidiVRNetworkVis)
+[Paper](http://josephkotlarek.com/A_Study_of_Mental_Map_in_Immersive_Network_Visualization.pdf) - [Code](https://github.com/jkotlarek/VidiVRNetworkVis)
 
 **Improving Spatial Orientation in Immersive Environments**
 
