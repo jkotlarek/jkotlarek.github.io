@@ -7,16 +7,19 @@ M.S. in Computer Science Recent Graduate from UC Davis
 ---
 ## Projects
 
-<img align="right" width="500px" src="http://josephkotlarek.com/imgs/netvis.png">
+<img align="left" width="640px" src="http://josephkotlarek.com/imgs/netvis.jpg">
 3D Network Visualization in Virtual Reality. 
 [Code](https://github.com/jkotlarek/VidiVRNetworkVis)
 
+<img align="right" width="640px" src="http://josephkotlarek.com/imgs/volvis.png">
 Egocentric Large Volume Visualization in Virtual Reality. 
 [Code](https://github.com/jkotlarek/VidiVRVolVis)
 
+<img align="left" width="640px" src="http://josephkotlarek.com/imgs/tokamak.jpg">
 Immersive Virtual Reality Tokamak Fusion Reactor Simulation. 
 [Code](https://github.com/jkotlarek/VidiVRTokamak)
 
+<img align="right" width="640px" src="http://josephkotlarek.com/imgs/wall.png">
 Immersive Virtual Reality Data Analysis Framework. 
 [Code](https://github.com/jkotlarek/VidiVRWall)
 
